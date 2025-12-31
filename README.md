@@ -9,7 +9,7 @@ Ingresos: 💰💰💰 alto · 💰💰 medio · 💰 bajo · ❌ sin ingresos
 | **[AprendeVibeCoding.com](https://aprendevibecoding.com)** | Lanza tu primer producto sin saber programar | 🚀 | 💰💰 |
 | **[QueIA.es](https://queia.es)** | Directorio GRATIS de herramientas de IA en español | 🚀 | 💰 |
 | **[Lanza-tu-app.com](https://lanza-tu-app.com)** | 200+ sitios donde lanzar tus productos | 🚀 | 💰 |
-| **[Foto Perfil](https://fotoperfil.eu)** | Generador de fotos de perfil con IA | 🚀 | ❌ |
+| **[Foto Perfil](https://fotoperfil.eu)** | Personaliza tu foto de perfil | 🚀 | ❌ |
 | **[UIPromptBuilder](https://uipromptbuilder.com)** | Extract Design Systems from any screenshot | 🚀 | ❌ |
 | **[ToolsParaCreators](https://toolsparacreators.com)** | Herramientas para creadores | ☠️ | ❌ |
 | **[Directorio Fotografía](https://www.directoriofotografia.com)** | Directorio de fotografía | 💤 | ❌ |
