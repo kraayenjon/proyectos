@@ -1,26 +1,19 @@
+### Proyectos
 
+Estado: 🚀 activo · 💤 pausado · ☠️ cerrado  
+Ingresos: 💰💰💰 alto · 💰💰 medio · 💰 bajo · ❌ sin ingresos
 
-### mis proyectos
-Legend: 💰 revenue · 🚀 active · 💤 paused · ☠️ dead · 🧪 experiment
+| Proyecto | Descripción | Estado | Ingresos |
+|--------|-------------|--------|----------|
+| **[aiselfi.es](https://aiselfi.es)** | Fotos profesionales con IA | 🚀 | 💰💰💰 |
+| **[AprendeVibeCoding.com](https://aprendevibecoding.com)** | Lanza tu primer producto sin saber programar | 🚀 | 💰💰 |
+| **[QueIA.es](https://queia.es)** | Directorio GRATIS de herramientas de IA en español | 🚀 | 💰 |
+| **[Lanza-tu-app.com](https://lanza-tu-app.com)** | 200+ sitios donde lanzar tus productos | 🚀 | 💰 |
+| **[Foto Perfil](https://fotoperfil.eu)** | Generador de fotos de perfil con IA | 🚀 | ❌ |
+| **[UIPromptBuilder](https://uipromptbuilder.com)** | Extract Design Systems from any screenshot | 🚀 | ❌ |
+| **[ToolsParaCreators](https://toolsparacreators.com)** | Herramientas para creadores | ☠️ | ❌ |
+| **[Directorio Fotografía](https://www.directoriofotografia.com)** | Directorio de fotografía | 💤 | ❌ |
+| **[Edita Inmuebles](https://editainmuebles.com)** | Mejora fotos de propiedades inmobiliarias | 💤 | ❌ |
+| **[WebAleatoria](https://webaleatoria.com)** | Descubre webs aleatorias | 💤 | ❌ |
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| **aiselfi.es** | AI professional headshots from selfies | 💰 🚀 |
-| **fotoperfil.eu** | Free AI profile picture generator | 🚀 |
-| **PromptDesign** | Prompt-based UI design onboarding tool | 🧪 |
-| **OldSaaSTool** | B2B SaaS for X niche | ☠️ |
-
-
-| Project | Description | Status | Revenue |
-|--------|-------------|--------|---------|
-| **aiselfi.es** | AI professional headshots from selfies | 🚀 | 💰 |
-| **fotoperfil.eu** | Free AI profile picture generator | 🚀 | ❌ |
-| **PromptDesign** | Prompt-based product/UI design tool | 🧪 | ❌ |
-| **OldSaaSTool** | B2B SaaS for a niche market | ☠️ | ❌ |
-
-
-| Project | Description | Status | Revenue |
-|--------|-------------|--------|---------|
-| **[aiselfi.es](https://aiselfi.es)** | AI professional headshots from selfies | 🚀 | 💰 |
-| **[fotoperfil.eu](https://fotoperfil.eu)** | Free AI profile picture generator | 🚀 | ❌ |
 
